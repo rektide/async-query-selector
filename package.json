@@ -14,8 +14,7 @@
 	"keywords": [],
 	"author": "rektide de la faye",
 	"license": "X11",
-	"module": "async-query-selector.js",
 	"dependencies": {
-		"p-defer": "^1.0.0"
+		"triggerable-generation": "^1.0.0"
 	}
 }
